@@ -1,1 +1,3 @@
-# v4-bladeRunner
+# Blade Runner Node Trading Bot V.1.0
+
+

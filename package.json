@@ -1,0 +1,25 @@
+{
+  "name": "v4-bladerunner",
+  "version": "1.0.0",
+  "description": "Blade Runner Node Trading Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "blade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernatferragut/BladeRunnerNodeTradingBot.git"
+  },
+  "keywords": [
+    "Node",
+    "Trading",
+    "Bot",
+    "BladeRunner"
+  ],
+  "author": "Bernat Ferragut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernatferragut/BladeRunnerNodeTradingBot/issues"
+  },
+  "homepage": "https://github.com/bernatferragut/BladeRunnerNodeTradingBot#readme"
+}
