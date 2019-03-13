@@ -26,12 +26,12 @@ let msg = JSON.stringify({
 w.on('open', () => w.send(msg))
 
 // Once Candles data is gathered 
-// setTimeout( ()=> {
-//   console.log('Candles data: ', candles)
-//   console.log('#############')
-//   console.log('TF: ', candles[1][0][0])
-//   console.log('O: ', candles[1][0][1])
-//   console.log('C: ', candles[1][0][2])
-//   console.log('H: ', candles[1][0][3])
-//   console.log('L: ', candles[1][0][4])
-// }, 3000) 
+setTimeout( ()=> {
+  console.log('Candles data: ', candles)
+  console.log('#############')
+  console.log('TF: ', candles[1][0][0])
+  console.log('O: ', candles[1][0][1])
+  console.log('C: ', candles[1][0][2])
+  console.log('H: ', candles[1][0][3])
+  console.log('L: ', candles[1][0][4])
+}, 3000) 
